@@ -1,5 +1,5 @@
 # emoji_randomchat
-### 이 프로젝트는 대학 작품입니다. (This project is university project.)
+### 이 프로젝트는 대학 작품입니다. (This project is university graduation project.)
 
 이 프로젝트는 2022년 8월 27일 처음 아이디어로 나왔습니다.
 
