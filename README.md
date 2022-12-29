@@ -1,5 +1,5 @@
 # emoji_randomchat
-emoji random chat application
+# emoji random chat application
 
 <이 프로젝트는 대학 작품입니다. (This project is university project.)>
 
@@ -7,7 +7,6 @@ emoji random chat application
 
 그 이전에 비슷한 아이디어가 있는 경우 이는 우연에 일치한 것이며
 의도가 전혀 없음을 밝힙니다.
-
 
 
 
